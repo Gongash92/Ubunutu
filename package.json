@@ -1,0 +1,22 @@
+{
+  "name": "ubunutu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gongash92/Ubunutu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gongash92/Ubunutu/issues"
+  },
+  "homepage": "https://github.com/Gongash92/Ubunutu#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
